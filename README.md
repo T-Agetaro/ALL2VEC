@@ -2,7 +2,7 @@
 
 **Author:** T. Agetaro  
 **License:** CC BY 4.0  
-**DOI:** (to be assigned after Zenodo release)
+**DOI:** https://doi.org/10.5281/zenodo.17429104
 
 ---
 
